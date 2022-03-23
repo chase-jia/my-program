@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-read-more": "/components/u-read-more/u-read-more"
+  }
+}

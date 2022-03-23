@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-button": "/components/u-button/u-button",
+    "j-pop": "/components/j-pop/j-pop"
+  }
+}

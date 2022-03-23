@@ -1,0 +1,83 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/my/set",
+    "pages/my/clear",
+    "pages/my/friends",
+    "pages/my/gwc",
+    "pages/my/help",
+    "pages/my/private",
+    "pages/my/smrz",
+    "pages/my/write",
+    "pages/my/xiaoxi",
+    "pages/my/yhxy",
+    "pages/my/zhbd",
+    "pages/index/components/jc",
+    "pages/index/components/xs",
+    "pages/index/components/jg",
+    "pages/index/components/rw",
+    "pages/index/components/sh",
+    "pages/index/components/js",
+    "pages/index/components/zy",
+    "pages/index/shudan",
+    "pages/index/resou",
+    "pages/index/xiangqing",
+    "pages/index/sesouxq",
+    "pages/index/shudanxq",
+    "pages/index/allsearch",
+    "pages/book-circle/book-circle",
+    "pages/selling-books/selling-books",
+    "pages/selling-books/fill-in-message",
+    "pages/selling-books/receicve-payment",
+    "pages/selling-books/Scan-code-to-sell-books",
+    "pages/selling-books/send-details",
+    "pages/book-circle/sellcet",
+    "pages/index/genren",
+    "pages/index/rsgeren",
+    "pages/index/liaotian",
+    "pages/my/login",
+    "pages/my/register"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#50d8be",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/1.png",
+        "selectedIconPath": "static/11.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/selling-books/selling-books",
+        "iconPath": "static/2.png",
+        "selectedIconPath": "static/22.png",
+        "text": "卖书"
+      },
+      {
+        "pagePath": "pages/book-circle/book-circle",
+        "iconPath": "static/3.png",
+        "selectedIconPath": "static/33.png",
+        "text": "书圈"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/4.png",
+        "selectedIconPath": "static/44.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

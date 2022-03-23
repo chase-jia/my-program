@@ -1,0 +1,1 @@
+<view class="content"><view><view class="status_bar"></view></view><view hidden="{{!(issure)}}" class="mainbody"><view class="mainbrain"><button type="default" data-event-opts="{{[['tap',[['replace',['$event']]]]]}}" bindtap="__e">确认</button><button type="default" data-event-opts="{{[['tap',[['replace1',['$event']]]]]}}" bindtap="__e">取消</button></view></view></view>

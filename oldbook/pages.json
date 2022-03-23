@@ -1,0 +1,371 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle":"custom"
+			}
+		}
+	    ,{
+            "path" : "pages/my/my",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/set",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/clear",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/friends",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/gwc",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/my/help",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		} ,{
+            "path" : "pages/my/private",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/my/smrz",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+         ,{
+            "path" : "pages/my/write",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/xiaoxi",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/yhxy",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        } ,{
+            "path" : "pages/my/zhbd",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/jc",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/xs",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/jg",
+            "style" :                                                                                    
+            {
+               "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/rw",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/sh",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/js",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/components/zy",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/shudan",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/resou",
+            "style" :                                                                                    
+            {
+                 "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/index/xiangqing",
+            "style" :                                                                                    
+            {
+                 "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/sesouxq",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/shudanxq",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/index/allsearch",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		
+        ,{
+            "path" : "pages/book-circle/book-circle",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/selling-books/selling-books",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/selling-books/fill-in-message",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/selling-books/receicve-payment",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/selling-books/Scan-code-to-sell-books",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+        
+        }
+        ,{
+            "path" : "pages/selling-books/send-details",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/book-circle/sellcet",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/genren",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/rsgeren",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/liaotian",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/login",
+            "style" :                                                                                    
+            {
+               "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/register",
+            "style" :                                                                                    
+            {
+                "navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#50d8be",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/1.png",
+			"selectedIconPath": "static/11.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/selling-books/selling-books",
+			"iconPath": "static/2.png",
+			"selectedIconPath": "static/22.png",
+			"text": "卖书"
+		}, {
+			"pagePath": "pages/book-circle/book-circle",
+			"iconPath": "static/3.png",
+			"selectedIconPath": "static/33.png",
+			"text": "书圈"
+		}, {
+			"pagePath": "pages/my/my",
+			"iconPath": "static/4.png",
+			"selectedIconPath": "static/44.png",
+			"text": "我的"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

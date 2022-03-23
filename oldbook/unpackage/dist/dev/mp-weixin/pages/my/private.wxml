@@ -1,0 +1,1 @@
+<view><view class="tou"><view class="status_bar"></view><view class="top"><image class="jt" src="../../static/shu/jt1.png" mode value="{{syy}}" data-event-opts="{{[['tap',[['fanhui',['$0'],['syy']]]],['input',[['__set_model',['','syy','$event',[]]]]]]}}" bindtap="__e" bindinput="__e"></image><view class="zi">隐私政策</view></view><view class="text-area">隐私条例</view></view></view>
